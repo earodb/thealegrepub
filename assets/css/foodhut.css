@@ -370,11 +370,11 @@ h2, .h2 {
 }
 
 h3, .h3 {
-  font-size: 1.85rem;
+  font-size: 1.5rem;
 }
 
 h4, .h4 {
-  font-size: 1.6rem;
+  font-size: 1.2rem;
 }
 
 h5, .h5 {
@@ -11198,7 +11198,7 @@ pre {
 .header {
   height: 100vh;
   max-height: 900px;
-  background: url(../../image/home.jpeg) no-repeat center center fixed;
+  background: url(../../image/home2.jpeg) no-repeat center center fixed;
   background-size: cover;
   min-height: 750px;
 }
